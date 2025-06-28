@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: darkmagenta;
+    padding: 20px;
+    font-family: Calibri, Arial;
+}
