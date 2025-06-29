@@ -1,3 +1,4 @@
 composer.lock
 .lando.yml
 /vendor
+/.idea
