@@ -1,6 +1,7 @@
 <?php
 /**
  * @var \App\Kernel\View\View $view
+ * @var \App\Kernel\Session\Session $session
  */
 ?>
 
@@ -11,6 +12,15 @@
     <p>Name</p>
     <div>
         <input type="text" name="name">
+    </div>
+    <div>
+        <?php if ($session->has('name')) { ?>
+        <ul>
+            <?php foreach ($session->get('name') as $error) { ?>
+                <li style="color:red"><?php echo $error?></li>
+            <?php } ?>
+        </ul>
+        <?php } ?>
     </div>
     <div>
         <button>Add</button>
