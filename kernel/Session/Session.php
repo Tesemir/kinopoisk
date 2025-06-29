@@ -2,9 +2,10 @@
 
 namespace App\Kernel\Session;
 
-class Session
+class Session implements SessionInterface
 {
-    public function __construct() {
+    public function __construct()
+    {
         session_start();
     }
 
@@ -25,6 +26,7 @@ class Session
 
         return $value;
     }
+
     public function has(string $key): bool
     {
         return isset($_SESSION[$key]);
