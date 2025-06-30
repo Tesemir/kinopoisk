@@ -40,10 +40,7 @@ The database has 4 tables:
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/c733503a-452b-4c40-a378-786c8c27cc46)
-![image](https://github.com/user-attachments/assets/f31c0b92-f298-4110-8984-dbc848759fe7)
+![image](https://github.com/user-attachments/assets/85b117ee-829d-45b9-9d80-60099ea1ee73)
 ![image](https://github.com/user-attachments/assets/cd40a9be-b00d-498d-aef5-9ad468c61d57)
 ![image](https://github.com/user-attachments/assets/679cc95e-fd8e-492f-9b04-e4619c65cc5e)
-![image](https://github.com/user-attachments/assets/d0e8bf7d-17f0-4723-84b0-8f79cefc4b2c)
-
-
-
+![image](https://github.com/user-attachments/assets/d4482809-fabd-4e0e-9e03-db56a19a610e)
